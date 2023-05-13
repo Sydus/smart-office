@@ -247,7 +247,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/linktr.ee\/sydus_it"
+                         "value":"cowebsite-iframe-66u3h"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,

@@ -247,7 +247,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/sydus.odoo-16.syderis.it"
+                         "value":"https:\/\/linktr.ee\/sydus_it"
                         }],
                  "type":"tilelayer",
                  "visible":true,

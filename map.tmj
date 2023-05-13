@@ -247,7 +247,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/google.com"
+                         "value":"https:\/\/sydus.odoo-16.syderis.it"
                         }],
                  "type":"tilelayer",
                  "visible":true,

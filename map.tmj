@@ -479,7 +479,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"https://google.com/banana.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
